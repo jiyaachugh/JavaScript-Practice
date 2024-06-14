@@ -6,6 +6,7 @@
 
 body {
   background-color: #2e8b57;
+  /* background-color: #eeec6c; */
   font-family: 'Roboto', sans-serif;
   display: flex;
   flex-direction: column;
@@ -65,4 +66,5 @@ h3 {
 
 .btn:focus {
   outline: 0;
+
 }
